@@ -51,7 +51,7 @@ The project is an enhanced version of the classic Hangman game. It aims to provi
    - Open your terminal/command prompt in the folder where the game files are stored.
    - Run the game by typing:
      ```bash
-     python hangmanx.py
+     python Hangman.py
      ```
    - The game will start, and you can follow the on-screen instructions to play.
 
