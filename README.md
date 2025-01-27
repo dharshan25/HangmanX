@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a8451bb8-24ee-422b-a6a1-bd71a0a1cb4a
+
 # HangmanX
 An enhanced version of the classic Hangman game with added features for improved gameplay and learning, including error handling, custom inputs, and motivational feedback
 
@@ -21,3 +25,5 @@ The project is an enhanced version of the classic Hangman game. It aims to provi
     - Add a scoring system to track wins and losses.
     - Allow the user to select different categories of words (e.g., general vocabulary, programming terms).
     - Add a graphical user interface (GUI) to make the game more interactive.
+
+
